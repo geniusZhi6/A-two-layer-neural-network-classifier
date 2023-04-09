@@ -23,4 +23,5 @@
    导入模型，用经过参数查找后的模型进行测试，输出分类精度
    
 homewrok_network2.ipynb：包含完整构建过程，包含代码以及输出结果
+
 hyperparameter_selection.json：包含模型利用网格搜索时的输出结果
