@@ -1,0 +1,162 @@
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.0001, 'batch_size': 64},best_val_accuracy=0.3947
+hidden_size=50, learning_rate=0.001, reg_lambda=0.0001,batch_size=64: val_accuracy=0.3947
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.0001, 'batch_size': 128},best_val_accuracy=0.6956
+hidden_size=50, learning_rate=0.001, reg_lambda=0.0001,batch_size=128: val_accuracy=0.6956
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.8528
+hidden_size=50, learning_rate=0.001, reg_lambda=0.0001,batch_size=256: val_accuracy=0.8528
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.8528
+hidden_size=50, learning_rate=0.001, reg_lambda=0.001,batch_size=64: val_accuracy=0.4261
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.8528
+hidden_size=50, learning_rate=0.001, reg_lambda=0.001,batch_size=128: val_accuracy=0.7019
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.8535
+hidden_size=50, learning_rate=0.001, reg_lambda=0.001,batch_size=256: val_accuracy=0.8535
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.8535
+hidden_size=50, learning_rate=0.001, reg_lambda=0.01,batch_size=64: val_accuracy=0.3781
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.8535
+hidden_size=50, learning_rate=0.001, reg_lambda=0.01,batch_size=128: val_accuracy=0.7206
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.001, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.8535
+hidden_size=50, learning_rate=0.001, reg_lambda=0.01,batch_size=256: val_accuracy=0.8521
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.0001, 'batch_size': 64},best_val_accuracy=0.8982
+hidden_size=50, learning_rate=0.01, reg_lambda=0.0001,batch_size=64: val_accuracy=0.8982
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.0001, 'batch_size': 128},best_val_accuracy=0.9139
+hidden_size=50, learning_rate=0.01, reg_lambda=0.0001,batch_size=128: val_accuracy=0.9139
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.9301
+hidden_size=50, learning_rate=0.01, reg_lambda=0.0001,batch_size=256: val_accuracy=0.9301
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.9301
+hidden_size=50, learning_rate=0.01, reg_lambda=0.001,batch_size=64: val_accuracy=0.8994
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.0001, 'batch_size': 256},best_val_accuracy=0.9301
+hidden_size=50, learning_rate=0.01, reg_lambda=0.001,batch_size=128: val_accuracy=0.9193
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.01, reg_lambda=0.001,batch_size=256: val_accuracy=0.9332
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.01, reg_lambda=0.01,batch_size=64: val_accuracy=0.8975
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.01, reg_lambda=0.01,batch_size=128: val_accuracy=0.9170
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.01, reg_lambda=0.01,batch_size=256: val_accuracy=0.9302
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.0001,batch_size=64: val_accuracy=0.6279
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.0001,batch_size=128: val_accuracy=0.1262
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.0001,batch_size=256: val_accuracy=0.1028
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.001,batch_size=64: val_accuracy=0.2644
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.001,batch_size=128: val_accuracy=0.1008
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.001,batch_size=256: val_accuracy=0.0984
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.01,batch_size=64: val_accuracy=0.8353
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.01,batch_size=128: val_accuracy=0.1030
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=50, learning_rate=0.1, reg_lambda=0.01,batch_size=256: val_accuracy=0.1054
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.0001,batch_size=64: val_accuracy=0.4962
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.0001,batch_size=128: val_accuracy=0.7583
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.0001,batch_size=256: val_accuracy=0.8658
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.001,batch_size=64: val_accuracy=0.5056
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.001,batch_size=128: val_accuracy=0.7680
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.001,batch_size=256: val_accuracy=0.8628
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.01,batch_size=64: val_accuracy=0.4980
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.01,batch_size=128: val_accuracy=0.7449
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.001, reg_lambda=0.01,batch_size=256: val_accuracy=0.8658
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.0001,batch_size=64: val_accuracy=0.8964
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.0001,batch_size=128: val_accuracy=0.9178
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.0001,batch_size=256: val_accuracy=0.9288
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.001,batch_size=64: val_accuracy=0.8967
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.001,batch_size=128: val_accuracy=0.9149
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.001,batch_size=256: val_accuracy=0.9277
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.01,batch_size=64: val_accuracy=0.8956
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.01,batch_size=128: val_accuracy=0.9159
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.01, reg_lambda=0.01,batch_size=256: val_accuracy=0.9231
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.0001,batch_size=64: val_accuracy=0.5838
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.0001,batch_size=128: val_accuracy=0.1011
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.0001,batch_size=256: val_accuracy=0.1058
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.001,batch_size=64: val_accuracy=0.3752
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.001,batch_size=128: val_accuracy=0.1013
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.001,batch_size=256: val_accuracy=0.0980
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.01,batch_size=64: val_accuracy=0.5843
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.01,batch_size=128: val_accuracy=0.1039
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=100, learning_rate=0.1, reg_lambda=0.01,batch_size=256: val_accuracy=0.1065
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.0001,batch_size=64: val_accuracy=0.5378
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.0001,batch_size=128: val_accuracy=0.7930
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.0001,batch_size=256: val_accuracy=0.8688
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.001,batch_size=64: val_accuracy=0.5355
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.001,batch_size=128: val_accuracy=0.7834
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.001,batch_size=256: val_accuracy=0.8713
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.01,batch_size=64: val_accuracy=0.5439
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.01,batch_size=128: val_accuracy=0.7954
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.001, reg_lambda=0.01,batch_size=256: val_accuracy=0.8705
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.0001,batch_size=64: val_accuracy=0.8949
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.0001,batch_size=128: val_accuracy=0.9105
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.0001,batch_size=256: val_accuracy=0.9157
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.001,batch_size=64: val_accuracy=0.8948
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.001,batch_size=128: val_accuracy=0.9098
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.001,batch_size=256: val_accuracy=0.9188
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.01,batch_size=64: val_accuracy=0.8944
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.01,batch_size=128: val_accuracy=0.9123
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.01, reg_lambda=0.01,batch_size=256: val_accuracy=0.9129
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.0001,batch_size=64: val_accuracy=0.4439
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.0001,batch_size=128: val_accuracy=0.1854
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.0001,batch_size=256: val_accuracy=0.0950
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.001,batch_size=64: val_accuracy=0.6970
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.001,batch_size=128: val_accuracy=0.0959
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.001,batch_size=256: val_accuracy=0.1006
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.01,batch_size=64: val_accuracy=0.5290
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.01,batch_size=128: val_accuracy=0.1190
+Best parameters: {'hidden_size': 50, 'learning_rate': 0.01, 'reg_lambda': 0.001, 'batch_size': 256},best_val_accuracy=0.9332
+hidden_size=200, learning_rate=0.1, reg_lambda=0.01,batch_size=256: val_accuracy=0.0982
